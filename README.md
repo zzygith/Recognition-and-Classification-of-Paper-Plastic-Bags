@@ -1,1 +1,4 @@
-运行tu_guim.py程序，在人机交互界面选择“开始分拣”，然后点“显示结果”，得到分类结果，点击“确定”，得到图像存在的印刷缺陷。
+1.Run tu_guim.py
+2.Select "Start to sort"
+3.Select "Show result" and get the sort result
+4.Select "Confirm" and get the printing defects
